@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 I am in the process of learning the Java programming language.
 I already have several finished projects in my account. 4 projects are Web-applications (there is also written with Spring Boot) and one for a desktop. One of them is written in PHP. 
 
-[license-url]: [https://github.com/github_username/repo_name/blob/master/LICENSE.txt](https://www.linkedin.com/in/oleh-bryl/)
+[license-url]: [https://github.com/github_username/repo_name/blob/master/LICENSE.txt]
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/oleh-bryl/
