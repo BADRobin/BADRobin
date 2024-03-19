@@ -3,7 +3,8 @@
 ### Hi there 👋
 ## I am Oleh
 
-  I am in the process of learning the Java programming language. In my country, I finished my studies at a private programming school. I completed the tests, passed the final exams and got the Junior Java Developer certification
+  I am in the process of learning the Java programming language. In my country, I finished my studies at a private programming school. I completed the tests, passed the final exams and got 
+the Junior Java Developer certification
 
   I already have several finished projects in my account. 4 projects are Web-applications (there is also written with Spring Boot) and one for a desktop. One of them is written in PHP. 
 I'm currently working on improving my knowledge. Learning new skills and expanding my possibilities. 
