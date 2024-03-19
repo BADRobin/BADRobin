@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+I am in the process of learning the Java programming language.
+I already have several finished projects in my account. 4 projects are Web-applications (there is also written with Spring Boot) and one for a desktop. One of them is written in PHP. 
 
