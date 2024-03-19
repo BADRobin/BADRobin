@@ -50,6 +50,9 @@ Language knowledge:
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="github logo"  />
 </div>
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=badrobin&layout=compact)](https://github.com/badrobin/github-readme-stats)
 
 ###
 
@@ -60,5 +63,6 @@ Language knowledge:
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=BADRobin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
 
 ###
