@@ -8,12 +8,12 @@
 
 ###
 
-I am in the process of learning the Java programming language. In my country, I finished my studies at a private programming school. I completed the tests, passed the final exams and got 
-the Junior Java Developer certification
+I have finished learning the Java programming language. In my country, I finished my studies at a private programming school. I have completed the tests, passed the final exams and got 
+Junior Java Developer certificate
 
-  I already have several finished projects in my account. 4 projects are Web-applications (there is also written with Spring Boot) and one for a desktop. One of them is written in PHP. 
-I'm currently working on improving my knowledge. Learning new skills and expanding my possibilities. 
-Right now, I'm currently studying at [DCI](https://digitalcareerinstitute.org/) (Digital Career Institute)
+ I have already several finished projects + 1 final project on my account. 5 projects are web applications (there are also written in Spring Boot) and one for desktop. One of them is written in PHP. 
+Now I am working on improving my knowledge. Learning new skills and expanding my capabilities. 
+I have completed my studies at [DCI](https://digitalcareerinstitute.org/) (Digital Career Institute).
 
 Language knowledge:
 - [x] Ukrainian - native language
